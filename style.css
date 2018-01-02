@@ -1,0 +1,16 @@
+.black {
+    background: #BAC1F5;
+    border: 10px solid black;
+    font-size: x-large;
+    text-align: center;
+    padding: 20px 0px;
+    margin-top: 20px;
+  }
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
